@@ -11,6 +11,11 @@ This dynamic website is used to track all our stocks - Meat & Seafood, Fruits & 
                             The website is hosted by Hostinger.
                             
 ## Database Design
+![Dataflow Diagram](hhinventory_design/dfd.JPG)
 
-![Dataflow Diagram](“hhinventory_design/dfd.jpg”)
-                            
+![Inventory System](hhinventory_design/inventory.JPG)
+ 
+ ![Entity-Relation Diagram](hhinventory_design/er.JPG)
+ 
+  ![Relational Diagram](hhinventory_design/relational.JPG)
+       
