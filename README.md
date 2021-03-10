@@ -19,3 +19,22 @@ This dynamic website is used to track all our stocks - Meat & Seafood, Fruits & 
  
   ![Relational Diagram](hhinventory_design/relational.JPG)
        
+## Sample Screenshoots
+
+*In the home page, list of category is displayed.*
+
+  ![Home Page](hhinventory_design/home.JPG)
+  
+  
+*Click the Check Inventory button to see the items under that category.*
+
+  ![Lists](hhinventory_design/lists.JPG)
+
+*Add and delete items*
+
+  ![Add Item](hhinventory_design/addItem.JPG)
+  ![Delete Item](hhinventory_design/delete.JPG)
+  
+*Update the items bought*
+
+  ![Add Item](hhinventory_design/boughtQuantity.JPG)
