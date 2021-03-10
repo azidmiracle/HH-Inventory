@@ -9,3 +9,8 @@ This dynamic website is used to track all our stocks - Meat & Seafood, Fruits & 
                             Since the website requires a database, I used MySql as the DBMS and PHP to fetch the data from
                             the database.
                             The website is hosted by Hostinger.
+                            
+## Database Design
+
+![Dataflow Diagram](“hhinventory_design/dfd.jpg”)
+                            
